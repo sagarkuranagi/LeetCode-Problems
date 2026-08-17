@@ -9,8 +9,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+## Array
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
