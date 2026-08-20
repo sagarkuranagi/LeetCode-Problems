@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
@@ -57,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0234-palindrome-linked-list](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
