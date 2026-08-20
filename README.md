@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Manacher
 |  |
