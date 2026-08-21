@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0486-predict-the-winner](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Manacher
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
