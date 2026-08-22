@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 ## Two Pointers
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
