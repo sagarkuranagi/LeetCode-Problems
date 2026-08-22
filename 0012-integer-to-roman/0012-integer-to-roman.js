@@ -21,10 +21,10 @@ var intToRoman = function(num) {
 
     let result = "";
 
-    for (const [value, symbol] of values) {
-        while (num >= value) {
-            result += symbol;
-            num -= value;
+    for (let i = 0; i < values.length; i++) {
+        while (num >= values[i][0]) {
+            result += values[i][1];
+            num -= values[i][0];
         }
     }
 
