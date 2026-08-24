@@ -106,4 +106,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0401-binary-watch](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/sagarkuranagi/LeetCode-Problems/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
